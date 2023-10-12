@@ -25,10 +25,10 @@ and answer the prompts accordingly. A file titled [README.md](./output/README.md
 [The MIT License](https://opensource.org/licenses/MIT/)
 
 ## Contributing
-[Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
-[GitHub Docs: Basic formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[License badges for the most common open source and open data licenses by @lukas-h](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba#gnu-agpl-v3)
-BootCampSpot
+- [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+- [GitHub Docs: Basic formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [License badges for the most common open source and open data licenses by @lukas-h](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba#gnu-agpl-v3)
+- BootCampSpot
 
 ## Questions
 - Github: [hjlee17](https://github.com/hjlee17)
