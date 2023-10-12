@@ -1,10 +1,10 @@
-// TODO: Include packages needed for this application
+// packages needed for this application
 const fs = require('fs');
 const inquirer = require('inquirer');
 const markdown = require('./utils/generateMarkdown.js');
 
 
-// TODO: Create an array of questions for user input
+// array of questions for user input
 const questions = [
     // github
     {
@@ -95,15 +95,15 @@ What was your motivation? Why did you build this project? What problem does it s
 
 ];
 
-// TODO: Create a function to write README file
+// function to write README file
 function writeToFile(data) {
-    const fileName = `README.md`;
+    const fileName = `output/README.md`;
     fs.writeFile(fileName, data, (err) => {
         err ? console.error(`Error: ${err}`) : console.log(`${fileName} has been saved.`)
       });
 }
 
-// TODO: Create a function to initialize app
+// function to initialize app
 function init() {
     inquirer.prompt(questions)
     .then(response => {
@@ -112,5 +112,4 @@ function init() {
     });
 }
 
-// Function call to initialize app
 init();
