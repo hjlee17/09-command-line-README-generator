@@ -25,7 +25,7 @@ The user will be required to input their Github username, an email address, a ti
 
 [Video Demonstration](https://drive.google.com/file/d/1yPh4bWqoHhy9Bm8UxdgViddwZzs9PWAW/view?usp=sharing/)
 Below is a screenshot of the command terminal after prompts have been answered and the README.md has been generated per the user inputs. The README and README preview are both visible.
-![Screenshot](./assets/sc-01.png)
+![Screenshot](./assets/sc-01.PNG)
 
 ## License
 [The MIT License](https://opensource.org/licenses/MIT/)
