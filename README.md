@@ -12,7 +12,7 @@ A command-line application dynamically generates a professional README.md file f
 - [Questions](#questions)
 
 ## Installation
-To generate a README file, the user needs to clone this [repository](https://github.com/hjlee17/09-command-line-README-generator/). Install [Inquirer](https://www.npmjs.com/package/inquirer/v/8.2.4), (listed as a dependency in package.json) using the ```npm i``` command.
+To generate a README file, the user needs to clone this [repository](https://github.com/hjlee17/09-command-line-README-generator/). Install [Node.js](https://nodejs.org/) and [Inquirer](https://www.npmjs.com/package/inquirer/v/8.2.4), (listed as a dependency in package.json) using the ```npm i``` command.
 
 ## Usage
 Invoke the application by by using the following command:
