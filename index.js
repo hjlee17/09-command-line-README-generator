@@ -99,7 +99,7 @@ What was your motivation? Why did you build this project? What problem does it s
 function writeToFile(data) {
     const fileName = `output/README.md`;
     fs.writeFile(fileName, data, (err) => {
-        err ? console.error(`Error: ${err}`) : console.log(`${fileName} has been saved.`)
+        err ? console.error(`Error: ${err}`) : console.log(`${fileName} has been saved in ./output`)
       });
 }
 

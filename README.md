@@ -21,6 +21,10 @@ node index.js
 ``` 
 and answer the prompts accordingly. A file titled [README.md](./output/README.md) will be generated in the [output](./output) folder.
 
+The user will be required to input their Github username, an email address, a title for the README, and a description. Installation, usage, contributing, and tests sections are optional. "n/a" is the default input for these sections if a user leaves these inputs blank. For the license section, a user may select "no license".
+
+[Video Demonstration](link/)
+
 ## License
 [The MIT License](https://opensource.org/licenses/MIT/)
 
